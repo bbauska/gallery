@@ -1,6 +1,9 @@
 # gallery
 Gallery of photos.  Working on width and height.  Want vertical photos, not horizontal.  Problem is, most have only horizontal photos.  Not cool.  Who holds their phone sideways to take a picture?
 
+![image](https://github.com/bbauska/gallery/assets/41387907/1e3b7543-2c2c-439c-ab95-c4e674ff3a07)
+
+
 # Learn CSS Flexbox by Building a Photo Gallery, Completed
 
 > - Flexbox helps you design your webpage so that it looks good on any screen size.
