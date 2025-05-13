@@ -1,4 +1,4 @@
-# Kitterson Photo Gallery
+# 30 Kitterson Photos - Gallery
 Gallery of photos.  Working on width and height.  Want vertical photos, not horizontal.  Problem is, most have only horizontal photos.  Not cool.  Who holds their phone sideways to take a picture?
 
 ![image](https://github.com/bbauska/gallery/assets/41387907/1e3b7543-2c2c-439c-ab95-c4e674ff3a07)
